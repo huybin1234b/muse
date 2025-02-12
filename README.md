@@ -3,8 +3,8 @@
 </p>
 
 > [!WARNING]
-> I ([@codetheweb](https://github.com/codetheweb)) am no longer the primary maintainer of Muse. **If you use the Docker image, update your image source to `ghcr.io/museofficial/muse`.** We are currently publishing new releases to both `ghcr.io/museofficial/muse` and `codetheweb/muse`, but this may change in the future.
-> Thank you to all the people who stepped up to help maintain Muse!
+> This is a personal fork of it for just get it work on [render](https://render.com/)
+> *it still on working tho but you could use it if you want* 
 
 ------
 
